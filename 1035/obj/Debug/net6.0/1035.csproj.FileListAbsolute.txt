@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\bin\Debug\net6.0\1035.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\bin\Debug\net6.0\1035.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\bin\Debug\net6.0\1035.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\bin\Debug\net6.0\1035.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\bin\Debug\net6.0\1035.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\refint\1035.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\1035.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1035\obj\Debug\net6.0\ref\1035.dll

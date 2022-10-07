@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\bin\Debug\net6.0\For.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\bin\Debug\net6.0\For.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\bin\Debug\net6.0\For.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\bin\Debug\net6.0\For.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\bin\Debug\net6.0\For.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\refint\For.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\For\obj\Debug\net6.0\ref\For.dll

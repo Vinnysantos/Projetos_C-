@@ -1,0 +1,5 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\bin\Debug\net6.0\2670.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\bin\Debug\net6.0\2670.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\bin\Debug\net6.0\2670.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\bin\Debug\net6.0\2670.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\bin\Debug\net6.0\2670.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\refint\2670.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\2670.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\2670\obj\Debug\net6.0\ref\2670.dll

@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\bin\Debug\net6.0\Editor de texto.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\bin\Debug\net6.0\Editor de texto.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\bin\Debug\net6.0\Editor de texto.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\bin\Debug\net6.0\Editor de texto.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\bin\Debug\net6.0\Editor de texto.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\refint\Editor de texto.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\Editor de texto.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\Editor de texto\obj\Debug\net6.0\ref\Editor de texto.dll

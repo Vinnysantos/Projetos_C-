@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\bin\Debug\net6.0\1176.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\bin\Debug\net6.0\1176.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\bin\Debug\net6.0\1176.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\bin\Debug\net6.0\1176.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\bin\Debug\net6.0\1176.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\refint\1176.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\1176.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\Projetos\1176\obj\Debug\net6.0\ref\1176.dll

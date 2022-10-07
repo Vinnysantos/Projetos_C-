@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\bin\Debug\net6.0\1078.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\bin\Debug\net6.0\1078.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\bin\Debug\net6.0\1078.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\bin\Debug\net6.0\1078.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\bin\Debug\net6.0\1078.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\refint\1078.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\1078.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\1078\obj\Debug\net6.0\ref\1078.dll

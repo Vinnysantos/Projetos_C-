@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\bin\Debug\net6.0\P1008P.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\bin\Debug\net6.0\P1008P.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\bin\Debug\net6.0\P1008P.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\bin\Debug\net6.0\P1008P.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\bin\Debug\net6.0\P1008P.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\refint\P1008P.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\P1008P.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\P1008P\obj\Debug\net6.0\ref\P1008P.dll

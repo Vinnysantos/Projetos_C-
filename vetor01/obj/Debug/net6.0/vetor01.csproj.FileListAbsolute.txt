@@ -1,0 +1,15 @@
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\bin\Debug\net6.0\vetor01.exe
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\bin\Debug\net6.0\vetor01.deps.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\bin\Debug\net6.0\vetor01.runtimeconfig.json
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\bin\Debug\net6.0\vetor01.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\bin\Debug\net6.0\vetor01.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.csproj.AssemblyReference.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.AssemblyInfoInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.AssemblyInfo.cs
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\refint\vetor01.dll
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.pdb
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\vetor01.genruntimeconfig.cache
+C:\Users\Vinicius Borges\Desktop\C#\Projetos\ws-vs2022\vetor01\obj\Debug\net6.0\ref\vetor01.dll
